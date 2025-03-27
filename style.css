@@ -1,0 +1,31 @@
+.gradientheading {
+    display: inline-block;
+    padding: 20px;
+    padding-left: 25%;
+    padding-right: 25%;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: bold;
+    background: linear-gradient(#ffdd1e, #4e36e9); 
+    border-radius: 5px;
+    text-align: center;
+}
+body {
+    background-color: #d8ddd8;
+}
+.MeGustaGuru {
+text-align: center;
+}
+
+
+img {
+    height: 250px;
+    width: 250px;
+}
+
+.imgs {
+    display: inline-block;
+}
+p {
+    padding-bottom: 60px;
+}
